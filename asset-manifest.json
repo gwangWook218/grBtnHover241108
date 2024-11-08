@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grBtnHover241108/static/css/main.e6c13ad2.css",
+    "main.js": "/grBtnHover241108/static/js/main.c80b0e9b.js",
+    "static/js/453.ad6eb26e.chunk.js": "/grBtnHover241108/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/grBtnHover241108/index.html",
+    "main.e6c13ad2.css.map": "/grBtnHover241108/static/css/main.e6c13ad2.css.map",
+    "main.c80b0e9b.js.map": "/grBtnHover241108/static/js/main.c80b0e9b.js.map",
+    "453.ad6eb26e.chunk.js.map": "/grBtnHover241108/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c80b0e9b.js"
+  ]
+}
